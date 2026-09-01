@@ -4,9 +4,23 @@
 [![Swift Version](https://img.shields.io/badge/Swift-5.9%2B-orange.svg?style=flat&logo=swift)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-cyan.svg?style=flat&logo=swift)](https://developer.apple.com/xcode/swiftui/)
 [![Language](https://img.shields.io/badge/Languages-English%20%7C%20বাংলা-green.svg)](#-bilingual-support-english--বাংলা)
+[![Watch Demo](https://img.shields.io/badge/Demo_Video-Watch_on_Drive-red?logo=google-drive)](https://drive.google.com/file/d/1LlQPQeGscC0Q5wUgGks_04YZ22IhCZO-/view)
+[![UI Screenshots](https://img.shields.io/badge/UI_Screenshots-View_Gallery-blue?logo=google-drive)](https://drive.google.com/drive/folders/11o-kOBHrbmrHFcc9hoY76Aj78Rnzr0kU)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 **FitNest** is a modern, personalized fitness and nutrition iOS application crafted with SwiftUI. It empowers users to achieve their wellness goals through curated workout routines, an interactive voice-guided workout player, smart habit & streak reminders, and a tailored nutrition tracker featuring an extensive **Bangladeshi & South Asian food database** with full **English and Bengali (বাংলা)** bilingual support.
+
+---
+
+## 🎬 Media & UI Showcase
+
+| 🎥 App Demo Video | 📸 UI Screenshots & Gallery |
+| :---: | :---: |
+| [![Watch App Demo Video](https://img.shields.io/badge/▶_Watch_App_Demo_Video-Google_Drive-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1LlQPQeGscC0Q5wUgGks_04YZ22IhCZO-/view) | [![Explore Full UI Screenshot Gallery](https://img.shields.io/badge/🖼_View_UI_Screenshots-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/11o-kOBHrbmrHFcc9hoY76Aj78Rnzr0kU) |
+| *Full walkthrough of FitNest features in action* | *High-resolution UI screenshots of all screens* |
+
+- 📹 **App Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1LlQPQeGscC0Q5wUgGks_04YZ22IhCZO-/view)
+- 🖼️ **UI Screenshots Gallery**: [View Screenshots Folder](https://drive.google.com/drive/folders/11o-kOBHrbmrHFcc9hoY76Aj78Rnzr0kU)
 
 ---
 
